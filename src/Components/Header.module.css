@@ -1,0 +1,55 @@
+.header{
+    height: 150px;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    border-bottom:1px solid #3D1053;
+}
+
+.logo img{
+    width: 200px;
+    margin:20px 0 20px 0;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;  
+}
+
+.menu p{
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+    color: #356481;    
+}
+
+.menu p:hover{
+    transition: 2s;
+    color:#131115;
+    border-bottom: #356481 1px solid;
+}
+
+.conta{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;  
+}
+
+.conta p{
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+    color: #356481;    
+}
+
+.conta p:hover{
+    transition: 1.2s;
+    color:#3D1053;
+    border-bottom: #356481 1px solid;
+
+    
+}

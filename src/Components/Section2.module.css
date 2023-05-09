@@ -1,0 +1,52 @@
+section{
+    height: 200px;
+    border-bottom: 1px solid #3D1053;
+}
+
+h1{
+    text-align: left;
+    font-size:28px;
+    margin-left: 80px;
+    margin-top:200px;
+    color: #3D1053;
+}
+
+h2{
+    text-align: left;
+    font-size:20px;
+    font-weight: 500;
+    margin-left: 100px;
+    margin-top: 80px;
+    color: #3D1053;
+    padding-bottom: 80px;
+}
+
+.section .select{
+    text-align: left;
+    margin-right: 1200px;
+    margin-left: 250px;
+    padding-left: 50px;
+    padding-bottom: 5px;
+    height: 20px;
+    font-size:18px;
+    font-weight: 500;
+    border: 1px solid #356481;
+    border-radius: 10px;
+    color: #356481;
+    cursor: pointer;
+}
+
+.section .select:hover{
+    transition: all 1.5s;
+    color:white;
+    background-color: #4c295cbd;
+    border: 1px solid #3D1053;
+}
+
+
+.cartao img{
+    text-align: right;
+    margin-left: 780px;
+    margin-top:-400px;
+   
+}
