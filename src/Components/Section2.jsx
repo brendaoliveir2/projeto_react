@@ -1,5 +1,5 @@
 import Styles from './Section2.module.css'
-import cartao from '../Imagens/cartao.png'
+import cartao from '../Imagens/cartoes.png'
 
 function Section2(){
     return(
