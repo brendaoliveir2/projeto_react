@@ -2,3 +2,37 @@
     background-color: #BADBE2;
     height: 300px;
 }
+
+.funf .social p{
+    padding-right: 24px;
+    font-size: 24px;
+}
+
+.funf .flex{
+    display: flex;
+    padding-bottom: 80px;
+}
+
+.flex .info{
+    font-size: 14px;
+    margin-top: 8px;
+    color: black;
+    margin-bottom: 50px;
+    text-align: right;
+}
+
+.flex .info2{
+    font-size: 14px;
+    margin-top: 8px;
+    color: black;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.flex .info3{
+    font-size: 14px;
+    margin-top: 8px;
+    color: black;
+    margin-bottom: 50px;
+    text-align: left;
+}
