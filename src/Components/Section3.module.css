@@ -1,4 +1,30 @@
 .section3{
-    background-color:#BADBE2;
-    height: 900px;
+    background-image: url(../Imagens/woman.jpg);
+    background-size: cover;
+    height: 1000px;
+}
+
+h4{
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #3D1053;
+    font-size: 50px;
+    padding-left: 680px;
+    margin-top: 60px;
+}
+
+h4 span{
+    color:#356481;
+
+}
+
+.section3 p{
+    align-items: center;
+    text-align: right;
+    margin-right: 60px;
+    font-size: 27px;
+    margin-top: 500px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #3D1053;
 }
